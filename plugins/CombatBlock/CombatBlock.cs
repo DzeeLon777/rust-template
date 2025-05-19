@@ -19,8 +19,6 @@
 /// RustGPT: https://chatgpt.com/g/g-xunzDbv9b-rustgpt
 /// Image: https://i.imgur.com/VQB20VZ_d.webp?maxwidth=760&fidelity=grand
 /// </summary>
-using System;
-using System.Collections.Generic;
 using System.Globalization;
 using Oxide.Core.Libraries.Covalence;
 using Oxide.Core.Plugins;

@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
-
 namespace Oxide.Plugins
 {
     [Info("NoDeathItems", "fakerplayers", "0.0.4")]
